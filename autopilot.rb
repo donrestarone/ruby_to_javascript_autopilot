@@ -3,7 +3,7 @@ def get_new_car
   {
     city: 'Toronto',
     passengers: 0,
-    gas: 100,
+    gas: 100
   }
 end
 
